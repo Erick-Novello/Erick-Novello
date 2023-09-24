@@ -65,8 +65,6 @@
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>  
 
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <br>
 
 <p align="center"><b> Vamos no conectar..!</b><img src="https://gifs.eco.br/wp-content/uploads/2022/07/gifs-de-aperto-de-mao-14.gif" width ="80"></p>
