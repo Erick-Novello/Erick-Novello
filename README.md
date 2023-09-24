@@ -18,7 +18,6 @@
 ### Linguagens de Programação
 <a><img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=Plastic&logo=java&logoColor=white"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=Plastic&logo=kotlin&logoColor=white"></a>
    
 ### Software & Tools
 <a><img src = "https://img.shields.io/badge/spring-%236DB33F.svg?style=Plastic&logo=spring&logoColor=white"></a>
@@ -31,15 +30,9 @@
 &emsp;
 <a><img src = "https://img.shields.io/badge/docker-%230db7ed.svg?style=Plastic&logo=docker&logoColor=white"></a>
 &emsp;
-<a><img src = "https://img.shields.io/badge/Rabbitmq-FF6600?style=Plastic&logo=rabbitmq&logoColor=white"></a>
-&emsp;
 <a><img src = "https://img.shields.io/badge/JWT-black?style=Plastic&logo=JSON%20web%20tokens"></a>
 &emsp;
 <a><img src = "https://img.shields.io/badge/Postman-FF6C37?style=Plastic&logo=postman&logoColor=white"></a>
-&emsp;
-<a><img src = "https://img.shields.io/badge/Insomnia-black?style=Plastic&logo=insomnia&logoColor=5849BE"></a>
-&emsp;
-<a><img src = "https://img.shields.io/badge/Flutter-%2302569B.svg?style=Plastic&logo=Flutter&logoColor=white"></a>
 &emsp;
 <a><img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=Plastic&logo=mysql&logoColor=white"></a>
 &emsp;
