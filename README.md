@@ -43,16 +43,8 @@
 <a><img src = "https://img.shields.io/badge/Eclipse-FE7A16.svg?style=Plastic&logo=Eclipse&logoColor=white"></a>
 &emsp;
 <a><img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=Plastic&logo=visual-studio-code&logoColor=white"></a>
-&emsp;
-<a><img src = "https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=Plastic&logo=android-studio&logoColor=white"></a>
-&emsp;
-<a><img src = "https://img.shields.io/badge/Notepad++-90E59A.svg?style=Plastic&logo=notepad%2b%2b&logoColor=black"></a>
 
 ### Sistemas Operacionais
-<a><img src = "https://img.shields.io/badge/Linux-FCC624?style=Plastic&logo=linux&logoColor=black"></a>
-&emsp;
-<a><img src = "https://img.shields.io/badge/Linux%20Mint-87CF3E?style=Plastic&logo=Linux%20Mint&logoColor=white"></a>
-&emsp;
 <a><img src = "https://img.shields.io/badge/Windows-0078D6?style=Plastic&logo=windows&logoColor=white"></a>
   
 <br><br>
